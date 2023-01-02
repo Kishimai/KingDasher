@@ -49,7 +49,7 @@ public class GameManager : MonoBehaviour
         _totalHighScorePause.text = $"HIGHSCORE: {_scoreManager.HighScore}";
 
 
-        if(Input.GetKeyDown(KeyCode.Escape)){
+        if(Input.GetKeyDown(KeyCode.Tab)){
             Pause(); // Pauses the Game and Enters the Pause Menu
         }
     }
