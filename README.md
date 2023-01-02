@@ -1,4 +1,2 @@
 # KingDasher
-A small project I made in 4 Hours.
-
-Just for the sake of it I made a casual game.
+A small project that was made in 4 Hours, Consists of 4 Main Scripts and 2 Sub Scripts.
